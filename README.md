@@ -34,7 +34,7 @@
 
 #### 🌱 I’m currently learning **Java, Node.js, HTML, CSS**
 
-#### 👨‍💻 All of my projects are available at > [Official Website](https://amdaniwasa.com) <
+#### 👨‍💻 All of my projects are available at > [coming soon]() <
 
 #### 💫 **I am a beginner developer. 🌆**
 ---
