@@ -1,5 +1,5 @@
-#  I am Janith Sadanuwan <img
-src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+#  I am Janith Sadanuwan  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&multiline=true&lines=Hi+Iam+Janith+sadanuwan;This+is+My+Profile+;Subscribe+My;+Janith+Sadanuwan+Youtube+Chanel)](https://git.io/typing-svg) </div>
