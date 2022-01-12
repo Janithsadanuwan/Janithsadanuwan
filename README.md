@@ -20,12 +20,6 @@
 
 
 ---
-### 🔭 My currently working on projects,
-
-<p align="left">
-  <a href="https://github.com/Janithsadanuwan/Queen-Nilu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Janithsadanuwan&repo=Queen-Nilu&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Queen-Nilu"></a>
-  <a href="https://github.com/Janithsadanuwan/covid-update-bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Janithsadanuwan&repo=covid-update-bot&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="covid-update-bot"></a>
-</p>
 
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=janithsadanuwan&theme=dark&show_icons=true)
