@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&multiline=true&lines=Hi+Iam+Janith+sadanuwan;This+is+My+Profile+;Subscribe+My;+Janith+Sadanuwan+Youtube+Chanel)](https://git.io/typing-svg) </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi++Iam+Janith+Sadanuwan)](https://git.io/typing-svg) </div>
 
 
 
