@@ -21,10 +21,6 @@
 
 #### 💫 **I am a beginner developer. 🌆**
 
----
-## 🎧 Spotify Playing
-
-[![Spotify](https://black-amda.vercel.app/api/spotify)](https://open.spotify.com/user/byk2qmulgj77v7sjv55pl0jjy)
 
 ---
 
