@@ -26,8 +26,9 @@
 
 
 ## 📣Youtube Channel
- <p align="left"><a href="https://youtube.com/c/janithsadanuwan"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
- <p align="center"></P>
+
+- [![Janith sadanuwan](https://img.shields.io/youtube/c/subscribers/janithsadanuwan?label=ArtboyLK%20subscribes&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
+- [![youtube views](https://img.shields.io/youtube/c/views/janithsadanuwan?label=ArtboyLk%20views&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
 
 ---
 
