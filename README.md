@@ -5,19 +5,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi++Iam+Janith+Sadanuwan)](https://git.io/typing-svg) </div>
 
 
-
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
-     
+---
+##   **📊Github Stats**
+<div>
+ <p><img width="50%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=Janithsadanuwan&show_icons=true&hide_border=true&theme=github_dark" width="60%" ></p>
+ <p><a href="https://github.com/Janithsadanuwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janithsadanuwan&layout=compact&hide_border=true&theme=github_dark" width="60%"/></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Janithsadanuwan&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" ></p>
+ <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
 </div>
 
----
+
 
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=janithsadanuwan&theme=dark&show_icons=true)
 
 #### 🌱 I’m currently learning **Python, Node.js, HTML, CSS**
 
-#### 👨‍💻 All of my projects are available at > [coming soon]() <
+#### 👨‍💻 All of my projects are available at > (http://janithsadanuwan.tk/) <
 
 #### 💫 **I am a beginner developer. 🌆**
 
