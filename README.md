@@ -27,8 +27,8 @@
 
 ## 📣Youtube Channel
 
-- [![Janith sadanuwan](https://img.shields.io/youtube/c/subscribers/janithsadanuwan?label=ArtboyLK%20subscribes&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
-- [![youtube views](https://img.shields.io/youtube/c/views/janithsadanuwan?label=ArtboyLk%20views&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
+- [![Janith sadanuwan](https://img.shields.io/youtube/c/subscribers/janithsadanuwan?label=ArtboyLK%20subscribes&style=social)](https://youtube.com/c/janithsadanuwan)
+- [![youtube views](https://img.shields.io/youtube/c/views/janithsadanuwan?label=Janithsadanuwan%20views&style=social)](https://youtube.com/c/janithsadanuwan)
 
 ---
 
@@ -56,7 +56,7 @@
 
 ![Metrics](https://metrics.lecoq.io/Janithsadanuwan?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Janithsadanuwan&theme=highcontrast&repo=Queen-Nilu)](https://github.com/Janithsadanuwan/Queen-Nilu)
+
 
 </details>
 
