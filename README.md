@@ -37,6 +37,8 @@
 <p align="left">
 <a href="https://www.instagram.com/janithsadanuwan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
 <a href="https://t.me/imjanith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/janithsadanuwan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/JanithsadanuwanLK/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
 </p>
 
 <details>
