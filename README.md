@@ -20,7 +20,7 @@
 
 #### 🌱 I’m currently learning **Python, Node.js, HTML, CSS**
 
-#### 👨‍💻 All of my projects are available at >(http://janithsadanuwan.tk/)<
+#### [👨‍💻 All of my projects are available at >](http://janithsadanuwan.tk/)
 
 #### 💫 **I am a beginner developer. 🌆**
 
