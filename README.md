@@ -27,10 +27,8 @@
 
 ## 📣Youtube Channel
 
-- [![Janith sadanuwan](https://img.shields.io/youtube/c/subscribers/janithsadanuwan?label=ArtboyLK%20subscribes&style=social)](https://youtube.com/c/janithsadanuwan)
-- [![youtube views](https://img.shields.io/youtube/c/views/janithsadanuwan?label=Janithsadanuwan%20views&style=social)](https://youtube.com/c/janithsadanuwan)
-
----
+- [![Artboy Lk](https://img.shields.io/youtube/channel/subscribers/UCFH_E0cu7U8GMjEJGnSvYjA?label=ArtboyLK%20subscribes&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
+- [![youtube views](https://img.shields.io/youtube/channel/views/UCFH_E0cu7U8GMjEJGnSvYjA?label=ArtboyLk%20views&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Janithsadanuwan&show_icons=true&theme=highcontrast" alt="Janithsadanuwan" /></p>
 
