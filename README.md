@@ -30,16 +30,13 @@
 - [![Janith sadanuwan ](https://img.shields.io/youtube/channel/subscribers/UChdAXxrVzXOkYhKtmdQb4vQ?label=Janithsadanuwan%20subscribes&style=social)](https://youtube.com/channel/UChdAXxrVzXOkYhKtmdQb4vQ)
 - [![youtube views](https://img.shields.io/youtube/channel/views/UChdAXxrVzXOkYhKtmdQb4vQ?label=Janithsadanuwan%20views&style=social)](https://youtube.com/channel/UChdAXxrVzXOkYhKtmdQb4vQ)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Janithsadanuwan&show_icons=true&theme=highcontrast" alt="Janithsadanuwan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Janithsadanuwan&theme=highcontrast" alt="Janithsadanuwan" /></p>
-</details>
 
 ---
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/janithsadanuwan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
+<a href="https://t.me/imjanith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
 </p>
 
 <details>
