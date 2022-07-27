@@ -12,7 +12,7 @@
  <p><img src="https://github-readme-stats.vercel.app/api?username=Janithsadanuwan&show_icons=true&hide_border=true&theme=github_dark" width="60%" ></p>
  <p><a href="https://github.com/Janithsadanuwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janithsadanuwan&layout=compact&hide_border=true&theme=github_dark" width="60%"/></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Janithsadanuwan&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" ></p>
- <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
+ <p><img src="https://gpvc.arturio.dev/janithsadanuwan" width="30%" ></p>
 </div>
 
 
