@@ -17,8 +17,6 @@
 
 
 
-# MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=janithsadanuwan&theme=dark&show_icons=true)
 
 #### 🌱 I’m currently learning **Python, Node.js, HTML, CSS**
 
